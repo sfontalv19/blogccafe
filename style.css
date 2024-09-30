@@ -63,7 +63,7 @@ body{
 
 
     .header {
-        background-image: url(/img/banner.jpg);
+        background-image: url(banner.jpg);
         height: 60rem;
         background-repeat: no repeat;
         background-position: center, center;
@@ -230,6 +230,7 @@ body{
          .footer {
         background-color: var(--negro);
             padding-bottom:  3rem;
+            padding-right: 4rem;
             margin-top: auto;            
          }
 
