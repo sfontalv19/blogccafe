@@ -63,7 +63,7 @@ body{
 
 
     .header {
-        background-image: url(banner.jpg);
+        background-image: url(../img/banner.jpg);
         height: 60rem;
         background-repeat: no repeat;
         background-position: center, center;
